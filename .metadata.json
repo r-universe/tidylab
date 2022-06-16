@@ -1,0 +1,22 @@
+[
+  {
+    "package": "decorators",
+    "oncran": true
+  },
+  {
+    "package": "microservices",
+    "oncran": true
+  },
+  {
+    "package": "R6P",
+    "oncran": true
+  },
+  {
+    "package": "tidylab",
+    "oncran": true
+  },
+  {
+    "package": "usethat",
+    "oncran": true
+  }
+]

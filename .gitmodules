@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "decorators"]
+	path = decorators
+	url = https://github.com/tidylab/decorators
+	shallow = true
+	registered = true
+[submodule "microservices"]
+	path = microservices
+	url = https://github.com/tidylab/microservices
+	shallow = true
+	registered = true
+[submodule "R6P"]
+	path = R6P
+	url = https://github.com/tidylab/r6p
+	shallow = true
+	registered = true
+[submodule "tidylab"]
+	path = tidylab
+	url = https://github.com/tidylab/tidylab
+	shallow = true
+	registered = true
+[submodule "usethat"]
+	path = usethat
+	url = https://github.com/tidylab/usethat
+	shallow = true
+	registered = true
