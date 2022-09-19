@@ -1,5 +1,9 @@
 [
   {
+    "package": "decorators",
+    "oncran": true
+  },
+  {
     "package": "microservices",
     "oncran": true
   },
