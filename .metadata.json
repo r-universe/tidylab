@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "microservices",
-    "oncran": true
+    "package": "microservices"
   },
   {
     "package": "R6P",
