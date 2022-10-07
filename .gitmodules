@@ -18,13 +18,3 @@
 	url = https://github.com/tidylab/r6p
 	shallow = true
 	registered = true
-[submodule "tidylab"]
-	path = tidylab
-	url = https://github.com/tidylab/tidylab
-	shallow = true
-	registered = true
-[submodule "usethat"]
-	path = usethat
-	url = https://github.com/tidylab/usethat
-	shallow = true
-	registered = true

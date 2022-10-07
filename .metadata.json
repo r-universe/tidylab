@@ -9,13 +9,5 @@
   {
     "package": "R6P",
     "oncran": true
-  },
-  {
-    "package": "tidylab",
-    "oncran": true
-  },
-  {
-    "package": "usethat",
-    "oncran": true
   }
 ]
