@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "R6P",
+    "package": "microservices",
     "oncran": true
   },
   {
-    "package": "microservices",
+    "package": "R6P",
     "oncran": true
   }
 ]
