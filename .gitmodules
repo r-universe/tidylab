@@ -8,13 +8,13 @@
 	url = https://github.com/tidylab/decorators
 	shallow = true
 	registered = true
-[submodule "microservices"]
-	path = microservices
-	url = https://github.com/tidylab/microservices
-	shallow = true
-	registered = true
 [submodule "R6P"]
 	path = R6P
 	url = https://github.com/tidylab/r6p
+	shallow = true
+	registered = true
+[submodule "microservices"]
+	path = microservices
+	url = https://github.com/tidylab/microservices
 	shallow = true
 	registered = true
