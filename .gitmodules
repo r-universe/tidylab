@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "R6P"]
+	path = R6P
+	url = https://github.com/tidylab/r6p
 [submodule "decorators"]
 	path = decorators
 	url = https://github.com/tidylab/decorators
 [submodule "microservices"]
 	path = microservices
 	url = https://github.com/tidylab/microservices
-[submodule "R6P"]
-	path = R6P
-	url = https://github.com/tidylab/r6p
