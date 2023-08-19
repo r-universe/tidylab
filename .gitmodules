@@ -8,6 +8,3 @@
 [submodule "decorators"]
 	path = decorators
 	url = https://github.com/tidylab/decorators
-[submodule "microservices"]
-	path = microservices
-	url = https://github.com/tidylab/microservices
